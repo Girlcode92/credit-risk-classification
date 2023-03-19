@@ -7,7 +7,7 @@ In this Challenge, I used various techniques to train and evaluate a model based
 * The purpose of this project was to train a model to detect high-risk and healthy loans.
 * The provided information included loan size, interest rate, borrower income, debt-to-income ratio, number of accounts, derogatory mark count, total debt and loan status. 
 * I used the loan status as the training model predictor. 
-* Split data into training and testing sets, checked balance of label variables by using value_counts, split data in traing and testing datasets using train_test_split.
+* Split data into training and testing sets, checked balance of label variables by using value_counts, split data into training and testing datasets using train_test_split.
 * I created a Logistic Regression Model using the original data and fit the model to predict loan status. I then checked the accuracy of test dataset- 99.2%
 
 ## Results
